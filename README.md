@@ -10,7 +10,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Dhanush0724?ext=contest&theme=dark)](https://leetcode.com/Dhanush0724)
 
 
-[![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanush0724l&bg_color=000000&color=ffffff&line=00ff80&point=ffffff&area=true&hide_border=true)]
+[![ github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanush0724&bg_color=000000&color=ffffff&line=00ff80&point=ffffff&area=true&hide_border=true)]
 
 
 # 📊 GitHub Stats:
