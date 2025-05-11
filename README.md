@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello! I'm Dhanush currently a third-year student pursuing a Bachelor's in AI & ML<br>👯 As I progress further into the world of web development, I'm excited about the possibilities and innovations awaiting. I aim to carve my niche as a web developer, <br>    infusing each project with innovation and creativity.<br>🤝 I’m interested in Web Development,Django and Machine Learning ||Python dev|| I’m looking to collaborate on project<br>
+🔭 Hello! I'm Dhanush currently a final-year student pursuing a Bachelor's in AI & ML<br>👯 As I progress further into the world of web development, I'm excited about the possibilities and innovations awaiting. I aim to carve my niche as a web developer, <br>    infusing each project with innovation and creativity.<br>🤝 I’m interested in Web Development,Django and Machine Learning ||Python dev|| I’m looking to collaborate on project<br>
 
 
 ## 🌐 Socials:
